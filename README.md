@@ -4,10 +4,10 @@ This repository contains the code for the MixPE simulator based on DNNWeaver and
 
 ## Prerequisite
 
-+ Ubuntu 18.04.5 LTS
-+ Andconda 4.10.1
-+ Python 3.8
-+ gcc 7.5.0
++ Ubuntu 22.04.1
++ Miniconda 25.1.1
++ Python 3.8.20
++ gcc 11.2.0
 
 ## Getting Started
 

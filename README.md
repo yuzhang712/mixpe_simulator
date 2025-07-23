@@ -1,6 +1,6 @@
 # MixPE Simulator
 
-This repository contains the code for the MixPE simulator based on DNNWeaver and BitFusion.
+This repository contains the code for the MixPE simulator based on DNNWeaver and BitFusion. The experimental results in paper "MixPE: Quantization and Hardware Co-design for Efficient LLM Inference" can be reproduced with the source code in this repo.
 
 ## Prerequisite
 
